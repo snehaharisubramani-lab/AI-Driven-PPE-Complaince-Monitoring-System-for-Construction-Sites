@@ -25,4 +25,4 @@ Real-time CCTV-based PPE compliance monitoring system for construction sites.
 - Augmented: 29,366 images
 - Classes: 11
 - Model: YOLOv11 Nano
-- 
+
