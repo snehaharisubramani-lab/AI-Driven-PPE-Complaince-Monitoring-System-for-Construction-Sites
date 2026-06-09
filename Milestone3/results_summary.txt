@@ -1,0 +1,9 @@
+PPE Detection Model - YOLO11n
+Training: 10 epochs, imgsz=416
+mAP50: 0.487
+Precision: 0.551
+Recall: 0.557
+Classes: boots, gloves, goggles, helmet, no_boots, 
+         no_gloves, no_goggles, no_helmet, no_vest, person, vest
+
+Day 3: Model training complete - mAP50: 0.487, inference tested
