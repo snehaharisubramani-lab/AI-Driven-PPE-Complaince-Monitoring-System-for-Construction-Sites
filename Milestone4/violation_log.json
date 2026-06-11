@@ -1,0 +1,824 @@
+[
+  {
+    "timestamp": "2026-06-09T08:00:00",
+    "image": "loading_bay.jpg",
+    "status": "COMPLIANT",
+    "violations": [],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T08:30:00",
+    "image": "worker_entrance.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_gloves",
+      "no_goggles"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T09:00:00",
+    "image": "loading_bay.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles",
+      "no_gloves",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T09:30:00",
+    "image": "zone_b.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T10:00:00",
+    "image": "download (4).jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T10:30:00",
+    "image": "ground_floor.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T11:00:00",
+    "image": "zone_b.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "goggles",
+      "boots"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T11:30:00",
+    "image": "rooftop.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "goggles",
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T12:00:00",
+    "image": "loading_bay.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T12:30:00",
+    "image": "loading_bay.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_gloves"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T13:00:00",
+    "image": "site_cam2.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "gloves",
+      "boots",
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T13:30:00",
+    "image": "worker_entrance.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T14:00:00",
+    "image": "zone_b.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T14:30:00",
+    "image": "zone_b.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T15:00:00",
+    "image": "site_cam2.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles",
+      "no_vest",
+      "no_gloves"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T15:30:00",
+    "image": "predicted_result.jpg",
+    "status": "COMPLIANT",
+    "violations": [],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T16:00:00",
+    "image": "worker_entrance.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T16:30:00",
+    "image": "predicted_result.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "gloves"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T17:00:00",
+    "image": "zone_a.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_boots"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T17:30:00",
+    "image": "zone_a.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "goggles",
+      "boots"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T18:00:00",
+    "image": "site_cam1.jpg",
+    "status": "COMPLIANT",
+    "violations": [],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T18:30:00",
+    "image": "scaffold_area.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_gloves",
+      "no_goggles",
+      "no_boots"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T19:00:00",
+    "image": "worker_entrance.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_boots",
+      "no_gloves"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T19:30:00",
+    "image": "download (4).jpg",
+    "status": "COMPLIANT",
+    "violations": [],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T20:00:00",
+    "image": "zone_b.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_goggles",
+      "no_boots"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T20:30:00",
+    "image": "ground_floor.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T21:00:00",
+    "image": "ground_floor.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "gloves"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T21:30:00",
+    "image": "zone_b.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-09T22:00:00",
+    "image": "rooftop.jpg",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T22:30:00",
+    "image": "ground_floor.jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_goggles",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T09:50:58.802241",
+    "image": "download (4).jpg",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:05:53.793488",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:06:36.734159",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:07:07.330056",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:07:26.511419",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:07:57.982443",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "gloves",
+      "vest",
+      "helmet",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:08:28.439590",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "gloves",
+      "vest",
+      "helmet",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:09:10.745845",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:09:32.453957",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:11:02.036547",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "vest",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:11:23.440934",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "helmet",
+      "vest",
+      "gloves",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:12:05.775023",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:12:27.782321",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:12:57.158832",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T10:13:29.038251",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "vest",
+      "gloves",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:17:17.995281",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "vest",
+      "goggles",
+      "helmet",
+      "boots"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T10:17:43.918423",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "vest",
+      "goggles",
+      "gloves",
+      "helmet",
+      "boots"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T11:04:17.191446",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "vest",
+      "boots",
+      "gloves",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T12:09:15.119571",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "boots",
+      "vest",
+      "goggles",
+      "gloves"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T12:09:34.828352",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T12:10:05.193906",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T12:11:30.525879",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T12:12:02.583244",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_gloves"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T12:12:33.394076",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "vest",
+      "goggles",
+      "gloves"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T12:13:04.995132",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "helmet",
+      "vest",
+      "boots",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T16:11:33.465981",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T16:12:04.452254",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T16:12:35.588122",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T16:13:06.601319",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T16:13:37.735337",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "vest",
+      "boots",
+      "helmet",
+      "goggles"
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T16:14:08.691141",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_gloves"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T20:27:28.912621",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-10T20:28:02.067417",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T09:55:15.574387",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "vest",
+      "gloves",
+      "boots",
+      "helmet"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T09:55:46.552324",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet",
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:05:00.701965",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:05:31.670797",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:06:02.839025",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:06:33.809448",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:07:04.925117",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "gloves",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:07:35.981832",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "gloves",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:08:07.035489",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "gloves",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:08:38.039084",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:09:09.174111",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:09:40.188973",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:10:11.237032",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:10:42.260044",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "gloves",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:11:13.424798",
+    "image": "live_cctv",
+    "status": "INCOMPLETE PPE",
+    "violations": [],
+    "missing_ppe": [
+      "boots",
+      "helmet",
+      "goggles",
+      "vest"
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T10:11:44.393020",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:12:15.397083",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  },
+  {
+    "timestamp": "2026-06-11T10:12:46.506478",
+    "image": "live_cctv",
+    "status": "NON-COMPLIANT",
+    "violations": [
+      "no_vest",
+      "no_helmet"
+    ],
+    "missing_ppe": []
+  }
+]
